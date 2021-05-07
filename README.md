@@ -1,3 +1,3 @@
 # Composi-o
-Creat Contracts and Enums
-Sallary calculated by the contracts
+# Creat Contracts and Enums
+# Sallary calculated by the contracts
